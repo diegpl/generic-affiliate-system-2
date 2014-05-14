@@ -1,0 +1,86 @@
+  /*Vitrine ao todo:*/
+#tabela_ml img{
+	height: auto;
+	widht: 150px;
+}
+
+#tabela_ml tr{
+	border: none;
+background: none;
+}
+
+#tabela_ml th{
+	border: none;
+background: none;
+}
+
+#tabela_ml {
+	background-color: #fff;
+  	text-align:center;
+  	width:100%;
+  	margin:10px 0 10px;
+        /*border:1px solid #DDD;*/
+        padding:10px;
+        /*background-color: #FAFAFA;*/
+	-moz-border-radius: 6px;
+	-khtml-border-radius: 6px;
+	-webkit-border-radius: 6px;
+	border-radius: 6px;
+  }
+  
+  /*Título da Vitrine*/
+.mlv_vititle{
+	font-weight:bold;
+	text-align: left;
+	padding: 0 0 8px;
+	font-size: 13px;
+	color: #000;
+	border: none;
+	background: none;
+  }
+  
+  /*Cada quadrado de oferta*/
+  .celula_ml {
+  text-align:center;
+	border: none;
+  padding:0 2px;
+  /*border:1px solid #eee;*/
+  }
+  
+  /*Configurações da imagem*/
+.celula_ml img {
+	border:none;
+	margin-left: -40px;
+	width:150px;
+	margin-bottom:2px;
+}
+  
+/*Título das ofertas*/
+.title_ml {
+	font-size:11px;
+	line-height:120%;
+	border: none;
+}
+  
+  /*Preço das ofertas*/
+  .preco_ml {
+  color:#E04493;
+  font-size:11px;
+  font-weight:700;
+  margin:2px 0 0;
+  }
+
+  .mpago_ml {
+  font-size:9px;
+  font-weight:700;
+  margin:-4px 0 5px;
+  color: #8B8B8B;
+  }
+  
+.powered_by {
+	font-size:9px;
+	font-weight:normal;
+	color: #000;
+	text-align:right;
+	border: none;
+}

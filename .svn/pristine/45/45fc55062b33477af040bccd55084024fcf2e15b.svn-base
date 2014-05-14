@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<produtos>
+	<produto>
+		<nome>E-commerce</nome>
+		<descricao>Venda produtos físicos e digitais</descricao>
+		<keyword>biorreator,fitoclone,producao,hotelaria,salao de beleza,dentisa,dentistas,comercio,agricultura,relacionados doencas do tomateiro,soja,relacionados winfit soja,relacionados winfit saat,relacionados sisagro,relacionados drenagem superficial,relacionados gerente cafeeiro,relacionados fertfoliar,relacionados pdp soja,relacionados pdp cafe,relacionados winfit compendio,relacionados barragem de terra,administracao rural,nota fiscal,pragas,empreendedores,receituario,relacionados saat,relacionados doencas no tomateiro</keyword>		
+		<preco>30,00 mensal</preco>
+		<imagem>http://culturalivre.com/afiliados/imgProdutos/e-commerce-sombra.jpg</imagem>
+		<banner>http://culturalivre.com/afiliados/imgProdutos/e-commerce-banner.jpg</banner>
+		<link>http://wpsoft.com.br/store/products/e-commerce-loja-virtual-sistema/</link>
+		<id>0</id>
+	</produto>
+	<produto>
+		<nome>Imobiliária Online</nome>
+		<descricao>Vitrine de Imóveis na web</descricao>
+		<keyword>biorreator,fitoclone,producao,administracao rural,comercio,agricultura,relacionados sisagro,soja,doencas na platacao,tomate,pragas,irrigacao,compendio</keyword>
+		<preco>35,00 mensal</preco>
+		<imagem>http://culturalivre.com/afiliados/imgProdutos/imobiliaria-sombra.jpg</imagem>
+		<banner>http://culturalivre.com/afiliados/imgProdutos/imobiliaria-banner.jpg</banner>
+		<link>http://wpsoft.com.br/store/products/site-para-imobiliaria-online-sistema/</link>
+		<id>1</id>
+	</produto>	
+	
+	<produto>
+		<nome>Site institucional</nome>
+		<descricao>Design faça você mesmo, clique-e-arraste</descricao>
+		<keyword>biorreator,fitoclone,producao,administracao rural,comercio,agricultura,relacionados winfit saat,soja,relacionados winfit compendio,soja,plantas daninhas,relacionados pdp soja,pragas,relacionados saat,relacionados winfit,relacionados winfit agrogestor</keyword>
+		<preco>30,00 mensal</preco>
+		<imagem>http://culturalivre.com/afiliados/imgProdutos/site-institucional-sombra.jpg</imagem>
+		<banner>http://culturalivre.com/afiliados/imgProdutos/site-institucional-banner.jpg</banner>
+		<link>http://wpsoft.com.br/store/products/site-para-empresas-institucional/</link>
+		<id>2</id>
+	</produto>
+	
+</produtos>

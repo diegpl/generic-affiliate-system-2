@@ -1,0 +1,63 @@
+=== Generic Affiliate System, for Marketpress or Woo-commerce  ===
+
+Contributors: diegpl,pkelbert,Rafael,Thiago MobilonDonate
+link: http://wpsoft.com.br
+Tags: Mercado Livre, monetização, contextual, vitrine, affiliate system, sistema de afiliados, affiliate program,marketpress, woo-commerce
+Requires at least: 2.6
+Tested up to:  2.8.6
+Stable tag: 4.3
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+Affiliate plugin for any e-commerce system. It is only update the afiliados.xml at root folder with your products, price and imgs. Now distribute the plugin for your clients. 
+
+== Description ==
+
+Affiliate plugin for any e-commerce system. It is only update the afiliados.xml at root folder with your products, price and imgs. 
+After that, change the XML path of the host company of the affiliate program. At $linkXML = 'http://culturalivre.com/wp-content/plugins/generic-affiliate-system/afiliados.xml'; at line 1347, 1099 and 1783
+
+It is all, now distribute this plugin for your partners with yours products!!!  
+
+This plugin is a little difficult to install because it is for the company or to the affiliate. 
+
+We intend to integrate this plugin with affiliates plugin of wpmudev very soon. If there is someone who can help us...
+
+This plugin is based on mlv_contextual plugin, of Thiago, but don`t arrest you at Mercado Livre or eBay, you can share yours own products.
+
+Online example here: http://softwaresesistemas.com.br/agricultura/cultura-morangueiro-adubacao-organica/
+
+== Installation ==
+
+1. Download the plugin - Baixe e descompacte o plugin
+2. Edit afiliados.xml file on plugin root with name, price, keywords and product images - Edite o arquivo afilidos.xml com o preco, nome, palavras-chave e caminho das imagens dos produtos
+3. Upload generic-affiliate-system folder for wp-content/plugins folder - Envie a pasta generic-affiliate-system para wp-content/plugins
+4. Active plugin at control panel - Ative no painel de controle
+5. Insert the keywords that will active each products on pots edit pages - Insira as palavras-chave que irao ativar cada produto na tela de edicao dos posts
+6. If you will distribute this plugin for your clients you should to edit this line after all too: change the XML path of the host company of the affiliate program. At $linkXML = 'http://culturalivre.com/wp-content/plugins/generic-affiliate-system/afiliados.xml'; at line 1347, 1099 and 1783
+7. It is all, now distribute this plugin for your partners with yours products!!!  
+
+== Frequently Asked Questions ==
+
+* Why is yet so dificult install this plugin? 
+
+Because it is a generic plugin, we are working to make it better and more integrated with marketpress and woo-commerce. Maybe we release others plugins with this framework plugin.
+
+== Screenshots ==
+
+1. The product box
+2. The products displaying on post page
+
+== Changelog ==
+
+= 1.0 =
+* Plugin released.
+
+== Arbitrary section ==
+
+
+
+== Markdown ==
+
+1. Finalize the sale on the site, without pop-up
+2. Sale real or digital products
+3. Accept all Brazilian Credit Cards
